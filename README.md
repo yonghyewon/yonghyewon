@@ -25,10 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yonghyewon&show_icons=true&locale=en" alt="yonghyewon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yonghyewon&" alt="yonghyewon" /></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yonghyewon&show_icons=true&locale=en&layout=compact" alt="yonghyewon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yonghyewon&show_icons=true&locale=en" alt="yonghyewon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yonghyewon&" alt="yonghyewon" /></p>
