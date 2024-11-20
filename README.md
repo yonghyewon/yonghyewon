@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm hyewon</h1>
 <h3 align="center">Student at Chung-Ang University Department of Art and Technology</h3>
 
