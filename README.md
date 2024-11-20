@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yonghw05@gmail.com**
 
-- ⚡ Fun fact **I am a small hexagon-shaped human.**
+- ⚡ Fun fact **I am a small hexagon human.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
